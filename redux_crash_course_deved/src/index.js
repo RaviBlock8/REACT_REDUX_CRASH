@@ -7,6 +7,7 @@ import rootReducer from './reducers/index'
 
 //STORE
 
+//error:reducer is undefined.. whyyy????
 const store=createStore(rootReducer)
 
 
